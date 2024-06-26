@@ -1,5 +1,5 @@
 #Geatting started 
-git clone https://github.com/tomastrajan/angular-ngrx-material-starter.git new-project
+git clone https://github.com/RushiDev29/Angular_Assigment
 cd new-project
 npm install
 npm start
